@@ -10,7 +10,7 @@ public class Main {
         if(x == 0) {
             System.out.println("Hello world'");
         } else if (x == 1) {
-            System.out.println("YOU WILL WORK WITH 'create gameAd CRUD operations'");
+            System.out.println("hej");
         } else if (x == 2) {
             System.out.println("YOU WILL die WITH 'create order CRUD operations'");
         } else if (x == 3) {
