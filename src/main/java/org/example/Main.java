@@ -12,7 +12,7 @@ public class Main {
         } else if (x == 1) {
             System.out.println("YOU WILL WORK WITH 'create gameAd CRUD operations'");
         } else if (x == 2) {
-            System.out.println("YOU WILL WORK WITH 'create order CRUD operations'");
+            System.out.println("YOU WILL die WITH 'create order CRUD operations'");
         } else if (x == 3) {
             System.out.println("Trolololo!");
         } else if (x == 4) {
